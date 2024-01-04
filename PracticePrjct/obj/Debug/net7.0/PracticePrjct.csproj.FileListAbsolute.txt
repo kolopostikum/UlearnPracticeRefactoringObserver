@@ -1,0 +1,14 @@
+D:\UlearnPracticeLocal\PracticePrjct\obj\Debug\net7.0\PracticePrjct.GeneratedMSBuildEditorConfig.editorconfig
+D:\UlearnPracticeLocal\PracticePrjct\obj\Debug\net7.0\PracticePrjct.AssemblyInfoInputs.cache
+D:\UlearnPracticeLocal\PracticePrjct\obj\Debug\net7.0\PracticePrjct.AssemblyInfo.cs
+D:\UlearnPracticeLocal\PracticePrjct\obj\Debug\net7.0\PracticePrjct.csproj.CoreCompileInputs.cache
+D:\UlearnPracticeLocal\PracticePrjct\bin\Debug\net7.0\PracticePrjct.exe
+D:\UlearnPracticeLocal\PracticePrjct\bin\Debug\net7.0\PracticePrjct.deps.json
+D:\UlearnPracticeLocal\PracticePrjct\bin\Debug\net7.0\PracticePrjct.runtimeconfig.json
+D:\UlearnPracticeLocal\PracticePrjct\bin\Debug\net7.0\PracticePrjct.dll
+D:\UlearnPracticeLocal\PracticePrjct\bin\Debug\net7.0\PracticePrjct.pdb
+D:\UlearnPracticeLocal\PracticePrjct\obj\Debug\net7.0\PracticePrjct.dll
+D:\UlearnPracticeLocal\PracticePrjct\obj\Debug\net7.0\refint\PracticePrjct.dll
+D:\UlearnPracticeLocal\PracticePrjct\obj\Debug\net7.0\PracticePrjct.pdb
+D:\UlearnPracticeLocal\PracticePrjct\obj\Debug\net7.0\PracticePrjct.genruntimeconfig.cache
+D:\UlearnPracticeLocal\PracticePrjct\obj\Debug\net7.0\ref\PracticePrjct.dll
